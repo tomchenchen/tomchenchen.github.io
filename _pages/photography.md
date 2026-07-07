@@ -7,9 +7,9 @@ author_profile: true
 
 # Photography
 
-Photography has become one of the ways I observe cities, people, and everyday life beyond my research in urban sociology.
+Photography is one of the ways I observe cities beyond my research in urban sociology. Through travel and everyday life, I enjoy documenting landscapes, architecture, transportation systems, and the ordinary moments that shape urban experiences.
 
-Many of these photographs were taken while traveling across China, Japan, and North America. I am particularly interested in landscapes, architecture, transportation systems, and moments that reveal how city life is experienced.
+The photographs on this page were taken across China, Japan, and North America.
 
 ---
 
