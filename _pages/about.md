@@ -59,3 +59,5 @@ My research agenda lies at the intersection of urban sociology, political sociol
 Outside of academia, I enjoy following elections and public affairs, particularly in North America and Taiwan. I also enjoy photography, swimming, and playing badminton.
 
 Born and raised in Shanghai, China, I remain a die-hard fan of [Shanghai Shenhua FC](https://www.instagram.com/shenhuafc_official) in the Chinese Super League. I also follow English football (soccer) closely and am a proud supporter of [Arsenal FC](https://www.arsenal.com/) in the Premier League.
+
+View my selected photography portfolio [here](https://tomchenchen.github.io/photography/).
