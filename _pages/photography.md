@@ -38,3 +38,31 @@ The photographs on this page were taken across China, Japan, and North America.
 *Shanghai Stadium, Xuhui District*  
 
 *March 2026*
+
+<img src="/images/photo/shenhua5.webp"
+     style="width:70%;">
+
+*"Glory Belongs to Shenhua" TIFO displayed at the CSL Shanghai Derby at home.*
+
+*Shanghai Stadium, Xuhui District*  
+
+*August 2025*
+
+<img src="/images/photo/shenhua6.webp"
+     style="width:70%;">
+
+*The long-awaited away victory over Beijing Guoan, ending a 12-match losing streak.*
+
+*Workers' Stadium, Beijing*  
+
+*July 2025*
+
+<img src="/images/photo/shenhua7.webp"
+     style="width:70%;">
+
+*Proudly displaying my blue jersey after Shenhua's away victory in the CFA Cup derby. Shenhua's first win at our archrival's home stadium.*
+
+<img src="/images/photo/shenhua8.webp"
+     style="width:70%;">
+
+*Striker André Luis, the first player ever to score a hat-trick in a derby between Shanghai Shenhua and Shanghai Port.*
