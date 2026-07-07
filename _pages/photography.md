@@ -11,21 +11,20 @@ The photographs on this page were taken across China, Japan, and North America.
 
 ## Shenhua
 
-<p align="center">
-<img class="photo" src="/images/photo/shenhua1.webp">
-</p>
+<img src="/images/photo/shenhua1.webp"
+     alt="Players gathered before kickoff"
+     style="width:70%;">
 
-<p align="center"><em>Players gathered in a circle before the long-awaited home match against Zhejiang F.C.</em></p>
+*Players gathered in a circle before the long-awaited home match against Zhejiang F.C.*
 
-<p align="center">
-<img class="photo" src="/images/photo/shenhua2.webp">
-</p>
+<img src="/images/photo/shenhua2.webp"
+     alt="Players gathered before kickoff"
+     style="width:70%;">
 
-<p align="center"><em>Me wearing midfielder Gao Tianyi's jersey after Shenhua's 3–2 victory over Zhejiang F.C.</em></p>
-
-<p align="center">
+*Me wearing midfielder Gao Tianyi's jersey after Shenhua's 3–2 victory over Zhejiang F.C.*
 
 *Shanghai Stadium, Xuhui District*  
+
 *July 2026*
 
 </p>
