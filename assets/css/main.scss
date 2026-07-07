@@ -102,3 +102,19 @@
     background:#f3f3f3;
 
 }
+
+@media (max-width:768px){
+
+.homepage-gallery{
+
+grid-template-columns:1fr;
+
+}
+
+.homepage-gallery img{
+
+height:auto;
+
+}
+
+}
