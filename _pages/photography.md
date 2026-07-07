@@ -14,13 +14,11 @@ The photographs on this page were taken across China, Japan, and North America.
 <img src="/images/photo/shenhua1.webp"
      alt="Players gathered before kickoff"
      style="width:70%;">
-
 *Players gathered in a circle before the long-awaited home match against Zhejiang F.C.*
 
 <img src="/images/photo/shenhua2.webp"
      alt="Players gathered before kickoff"
      style="width:70%;">
-
 *Me wearing midfielder Gao Tianyi's jersey after Shenhua's 3–2 victory over Zhejiang F.C.*
 
 *Shanghai Stadium, Xuhui District*  
