@@ -65,4 +65,4 @@ The photographs on this page were taken across China, Japan, and North America.
 <img src="/images/photo/shenhua8.webp"
      style="width:70%;">
 
-*Striker André Luis, the first player ever to score a hat-trick in a derby between Shanghai Shenhua and Shanghai Port.*
+*Brazilian André Luis, the first player ever to score a hat-trick in a derby between Shanghai Shenhua and Shanghai Port.*
