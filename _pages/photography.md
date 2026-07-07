@@ -12,13 +12,11 @@ The photographs on this page were taken across China, Japan, and North America.
 ## Shenhua
 
 <img src="/images/photo/shenhua1.webp"
-     alt="Players gathered before kickoff"
      style="width:70%;">
      
 *Players gathered in a circle before the long-awaited home match against Zhejiang F.C.*
 
 <img src="/images/photo/shenhua2.webp"
-     alt="Players gathered before kickoff"
      style="width:70%;">
      
 *Me wearing midfielder Gao Tianyi's jersey after Shenhua's 3–2 victory over Zhejiang F.C.*
@@ -28,13 +26,11 @@ The photographs on this page were taken across China, Japan, and North America.
 *July 2026*
 
 <img src="/images/photo/shenhua3.webp"
-     alt="Players gathered before kickoff"
      style="width:70%;">
      
 *Fans using a creative TIFO to pay tribute to our retired legend, Yu Hanchao.*
 
 <img src="/images/photo/shenhua4.webp"
-     alt="Players gathered before kickoff"
      style="width:70%;">
      
 *"Loyalty to Shenhua" flag displayed during the match against Dalian Yingbo.*
