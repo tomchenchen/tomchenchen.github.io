@@ -21,7 +21,7 @@ The photographs on this page were taken across China, Japan, and North America.
      
 *Me wearing midfielder Gao Tianyi's jersey after Shenhua's 3–2 victory over Zhejiang F.C.*
 
-*Shanghai Stadium, Xuhui District*  
+*Shanghai Stadium, Xuhui, Shanghai*  
 
 *July 2026*
 
@@ -35,7 +35,7 @@ The photographs on this page were taken across China, Japan, and North America.
      
 *"Loyalty to Shenhua" flag displayed during the match against Dalian Yingbo.*
 
-*Shanghai Stadium, Xuhui District*  
+*Shanghai Stadium, Xuhui, Shanghai*   
 
 *March 2026*
 
@@ -44,7 +44,7 @@ The photographs on this page were taken across China, Japan, and North America.
 
 *"Glory Belongs to Shenhua" TIFO displayed at the CSL Shanghai Derby at home.*
 
-*Shanghai Stadium, Xuhui District*  
+*Shanghai Stadium, Xuhui, Shanghai*  
 
 *August 2025*
 
@@ -53,7 +53,7 @@ The photographs on this page were taken across China, Japan, and North America.
 
 *The long-awaited away victory over Beijing Guoan, ending a 12-match losing streak.*
 
-*Workers' Stadium, Beijing*  
+*Workers' Stadium, Chaoyang, Beijing*  
 
 *July 2025*
 
@@ -66,3 +66,7 @@ The photographs on this page were taken across China, Japan, and North America.
      style="width:70%;">
 
 *Brazilian André Luis, the first player ever to score a hat-trick in a derby between Shanghai Shenhua and Shanghai Port.*
+
+*Pudong Football Stadium, Pudong, Shanghai*  
+
+*June 2025*
