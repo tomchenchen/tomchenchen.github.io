@@ -43,14 +43,15 @@
 }
 
 /* 调整列表间距 */
-.page__content ul li {
-    margin-bottom: 0.35em;
+.page__content h3 {
+    margin-bottom: 0.15rem;
 }
 
-.page__content ul ul {
-    margin-top: 0.2em;
+.page__content h3 + p {
+    margin-top: 0;
+    margin-bottom: 0.15rem;
 }
 
-.page__content ul ul li {
-    margin-bottom: 0.2em;
+.page__content p + ul {
+    margin-top: 0;
 }
