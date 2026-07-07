@@ -27,3 +27,18 @@ The photographs on this page were taken across China, Japan, and North America.
 
 *July 2026*
 
+<img src="/images/photo/shenhua3.webp"
+     alt="Players gathered before kickoff"
+     style="width:70%;">
+     
+*Fans using a creative TIFO to pay tribute to our retired legend, Yu Hanchao.*
+
+<img src="/images/photo/shenhua4.webp"
+     alt="Players gathered before kickoff"
+     style="width:70%;">
+     
+*"Loyalty to Shenhua" flag displayed during the match against Dalian Yingbo.*
+
+*Shanghai Stadium, Xuhui District*  
+
+*March 2026*
