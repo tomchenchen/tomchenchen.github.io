@@ -13,7 +13,7 @@ title                    : "Tom Chen"
 title_separator          : "-"
 name                     : "Tom Chen"
 description              : "Sociology PhD Student @ UMN" 
-url                      : # https://tomchenchen.github.io
+url                      : "https://tomchenchen.github.io"
 baseurl                  : "" 
 repository               : "tomchenchen/tomchenchen.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Sociology PhD Student @ UMN."
   location         : "Minneapolis, MN"
   employer         : "University of Minnesota"
-  uri              : "tomchenchen.github.io"
+  uri              : # "tomchenchen.github.io"
   email            : "che00334@umn.edu" 
 
   # Academic websites
