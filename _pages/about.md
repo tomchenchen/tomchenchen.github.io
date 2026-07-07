@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 My name is Tom Chen (陈辰). I am a first-year Ph.D. student in Sociology at the University of Minnesota Twin Cities. I obtained my B.A. in Economics from NYU Shanghai, with double minors in Social Science and Humanities.
 
-My research agenda lies at the intersection of urban sociology, political sociology, and social inequality. I am particularly interested in the spatial organization of poverty and inequality across global cities, as well as ideological polarization and political behavior. More broadly, I seek to understand how social, political, and spatial processes interact to shape patterns of inequality.
+My research agenda lies at the intersection of urban sociology, political sociology, and social inequality. I am particularly interested in the spatial organization of public health inequality and poverty across global cities, as well as ideological polarization and political behavior. More broadly, I seek to understand how social, political, and spatial processes interact to shape patterns of inequality.
 
 # 📖 Education
 - *2026.09 - 2032.05 (Expected)*, **Ph.D. in Sociology**, University of Minnesota Twin Cities
