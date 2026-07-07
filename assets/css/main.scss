@@ -41,21 +41,3 @@
 [id] {
     scroll-margin-top: 80px;
 }
-
-h3 {
-    color: red !important;
-}
-
-/* 调整列表间距 */
-.page__content h3 {
-    margin-bottom: 0.15rem;
-}
-
-.page__content h3 + p {
-    margin-top: 0;
-    margin-bottom: 0.15rem;
-}
-
-.page__content p + ul {
-    margin-top: 0;
-}
