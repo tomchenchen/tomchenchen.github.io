@@ -41,3 +41,11 @@
 [id] {
     scroll-margin-top: 80px;
 }
+
+.page__content h1 {
+    margin-bottom: 0.5rem !important;
+}
+
+.page__content h1 + h3 {
+    margin-top: 0 !important;
+}
