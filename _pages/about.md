@@ -42,6 +42,7 @@ My research agenda lies at the intersection of urban sociology, political sociol
 
 
 # 🏫 Teaching {#teaching}
+
 ### University of Minnesota
 **Teaching Assistant**, *Social Statistics* (Fall 2026)
 - Instructor: Michael Esposito
