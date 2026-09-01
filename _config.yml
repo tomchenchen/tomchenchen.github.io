@@ -22,7 +22,7 @@ repository               : "tomchenchen/tomchenchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_.jpg"
+  avatar           : "Chen Chen.jpg"
   name             : "Tom Chen (陈辰)"
   pronouns         : "he/him"  
   bio              : "Sociology PhD Student @ UMN."
