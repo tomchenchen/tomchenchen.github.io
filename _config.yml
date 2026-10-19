@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Tom Chen"
 title_separator          : "-"
 name                     : "Tom Chen"
@@ -22,7 +22,7 @@ repository               : "tomchenchen/tomchenchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Chen Chen.JPG"
+  avatar           : "Chen.jpeg"
   name             : "Tom Chen (陈辰)"
   pronouns         : "he/him"  
   bio              : "Sociology PhD Student @ UMN."
